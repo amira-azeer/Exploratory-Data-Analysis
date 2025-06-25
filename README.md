@@ -19,12 +19,11 @@ Comprehensive exploratory data analysis project demonstrating data cleaning, sta
 2. Run cells sequentially to reproduce the analysis
 3. Modify parameters or datasets to explore different scenarios
 
-### 3. **Dataset Information**
-## 📊 Dataset
+## Dataset Information
 - **Source**: https://www.kaggle.com/code/lawie7/foodhub-data-analysis
 - **Size**: 1898 rows with 9 columns
 
-4. ## 🔑 Key Findings
+## 🔑 Key Findings
 - Finding 1: Restaurant performance and popularity
 - Finding 2: Cuisine preferences
 - Finding 3: Customer spending and behaviour patterns
