@@ -19,7 +19,7 @@ Comprehensive exploratory data analysis project demonstrating data cleaning, sta
 2. Run cells sequentially to reproduce the analysis
 3. Modify parameters or datasets to explore different scenarios
 
-## Dataset Information
+## 📊 Dataset Information
 - **Source**: https://www.kaggle.com/code/lawie7/foodhub-data-analysis
 - **Size**: 1898 rows with 9 columns
 
